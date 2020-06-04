@@ -1,0 +1,46 @@
+.regbox {
+  background-color: white;
+  width: 450px;
+  height: 70%;
+  border-radius: 20px;
+  padding-bottom: 15rem;
+  padding-left: 1.5rem;
+  margin-top: 8rem;
+}
+
+.sgnbox {
+  background-color: white;
+  width: 450px;
+  height: 50%;
+  margin-top: 10rem;
+  border-radius: 20px;
+  padding-left: 1.5rem;
+}
+
+.sgnup {
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 2rem;
+}
+
+.ln {
+  width: 80%;
+  color: purple;
+  height: 2px;
+  margin-bottom: 2rem;
+}
+
+.regcont {
+  background-image: url('../../img/bg-auth.jpg');
+  background-size: cover;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+}
