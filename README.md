@@ -1,5 +1,5 @@
 # LetsTalkAboutFit
-Fullstack MERN Social Media application centered around exercise and fitness. 
+Fullstack MERN Social Media application centered around exercise and fitness and sharing experiences. 
 
 This app is was deployed via Heroku and is currently hosted on http://letstalkaboutfit.net/.
 
