@@ -1,6 +1,7 @@
 # LetsTalkAboutFit
 
-## Note: If you want to just test the application a dummy login account  Username: test@gmail.com password: 123456
+## Note: If you want to just test the application a dummy login account  
+### Username: test@gmail.com password: 123456
 
 Fullstack MERN Social Media application centered around exercise and fitness and sharing experiences. 
 
