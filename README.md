@@ -5,6 +5,7 @@
 
 Fullstack MERN Social Media application centered around exercise and fitness and sharing experiences. 
 
+// CURRENTLY UNDER MAINTENANCE
 This app is was deployed via Heroku and is currently hosted on http://letstalkaboutfit.net/.
 
 This app was implemented using MongoDB Express React Node Js, as well as the use of Redux, JSON Web Tokens, The
